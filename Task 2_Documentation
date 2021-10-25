@@ -1,0 +1,22 @@
+# LAB_5
+
+numpy.reshape():
+This function allows us to change the dimensions of the array without hampering the array values.
+
+append(): every time we call append() method on anyList, list object, the element is inserted at the end of List
+
+numpy.char.replace() function: Replaces a string or a portion of string with another string value.
+
+count() : This method counts the number of occurrences of an element in the list which the method is called on. 
+
+ insert() Method :
+ insert() method accepts an extra argument denoting the 'offset' at which the element has to be inserted.
+ 
+ pop() Method :
+This method when used without any argument, returns the last element in the list.
+
+reverse() Method :
+This method when called on a list object, it reverses it in place, without returning anything.
+
+sort() Method :
+This method when called on a list object, orders the list elements in ascending order by default, original list is modified in-place. 
